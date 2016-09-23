@@ -1,0 +1,17 @@
+*.class
+*.project
+*.lck
+testdb
+testdb.script
+testdb.properties
+/.metadata/
+/.settings/
+/RemoteSystemsTempFiles
+/testdb.tmp
+.mtj.tmp/
+*.jar
+*.war
+*.ear
+hs_err_pid*
+/target/
+/bin/
